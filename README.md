@@ -1,4 +1,4 @@
-# NeRF-Flow
+# NeRF-Flow: A High Performance Neural Rendering Framework
 
 ## Motivation
 Neural radiance fields (NeRF) have emerged as a transformative advance in photorealistic view synthesis and novel view generation. It can be seen as the next generation of graphic render technique after ray-tracing and rasterization.
@@ -17,8 +17,8 @@ NeRF-Accelerator, GPU, TPU, CPU
 
 ## Contributors
 
-- Kaiyan Chang 
-- Jiongxing Shen
-- Haimeng Ren
+- Kaiyan Chang (Compiler Manager)
+- Jiongxing Shen (Interpreter Manager)
+- Haimeng Ren (Processor Manager)
 
-Welcome to contribute this.
+Welcome to contribute.

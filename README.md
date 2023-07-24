@@ -11,12 +11,14 @@ We see opportunities in a full stack end-to-end neural rendering framework that 
 
 We aims to make photo realistic rendering portable to all device and scalable to a wide range of environment. For example, VR devices and edge devices.
 
-## Platform
+## Platforms
+
+NeRF-Accelerator, GPU, TPU, CPU
 
 ## Contributors
 
-Kaiyan Chang 
-Jiongxing Shen
-Haimeng Ren
+- Kaiyan Chang 
+- Jiongxing Shen
+- Haimeng Ren
 
-Welcome to contribute.
+Welcome to contribute this.

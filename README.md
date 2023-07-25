@@ -11,14 +11,21 @@ We see opportunities in a full stack end-to-end neural rendering framework that 
 
 We aims to make photo realistic rendering portable to all device and scalable to a wide range of environment. For example, VR devices and edge devices.
 
+## Projects
+
+- A NeRF Rendering Framework on GPU
+- A Virtualizable Unified NeRF Spatial Processor
+- A NeRF Compiler for NeRF Spatial Processor
+- A Photo-Realistic Framwork on VR/AR Glasses
+
 ## Platforms
 
 NeRF-Accelerator, GPU, TPU, CPU
 
 ## Contributors
 
-- Kaiyan Chang (Compiler Manager)
 - Jiongxing Shen (Interpreter Manager)
 - Haimeng Ren (Processor Manager)
+- Kaiyan Chang (Compiler Manager)
 
 Welcome to contribute.

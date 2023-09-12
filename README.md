@@ -22,10 +22,19 @@ We aims to make photo realistic rendering portable to all device and scalable to
 
 NeRF-Accelerator, GPU, TPU, CPU
 
-## Contributors
+## Organizers
 
 - Jiongxing Shen (Interpreter Manager)
 - Haimeng Ren (Processor Manager)
 - Kaiyan Chang (Compiler Manager)
+This project is a collaboration of dedicated professionals. Each core developer and contributor plays a unique role in the project. For any inquiries or questions, feel free to reach out to the corresponding developer based on their expertise. 
+| Developer | Organization | Responsibility | Contact |
+|-----------|--------------|----------------|---------|
+| Jiongxing Shen | ZheJiang Lab | overall interpreter implementation |  |
+| Haimeng Ren | Shanghai Tech University | NeRF processor, mapper implementation, auto scheduler | |
+| Kaiyan Chang | Institute of Computing Technology, Chinese Academic of Science | compiler design | changkaiyan@live.com |
+
+## Acknowledgement
 
 Welcome to contribute.
+

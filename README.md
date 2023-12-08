@@ -34,7 +34,32 @@ This project is a collaboration of dedicated professionals. Each core developer 
 | Haimeng Ren | Shanghai Tech University | NeRF processor, mapper implementation, auto scheduler | |
 | Kaiyan Chang | Institute of Computing Technology, Chinese Academic of Science | compiler design | changkaiyan@live.com |
 
+## How to use
+
+You can use any instant-ngp model and datasets to test.
+
+```shell
+mkdir build
+cd build
+cmake ..
+make -j8
+cd ..
+./nerftest ./xxx.ingp ./xxx.json
+```
+
+## Files
+
+The main file is src/main.cu.
+
+## Result
+
+## Compare
+
+
+
 ## Acknowledgement
 
 Welcome to contribute.
+
+
 

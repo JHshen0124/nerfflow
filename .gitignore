@@ -12,7 +12,6 @@
 /*.dll
 /*.exe
 /*.json
-*.ingp
 *.msgpack
 *.training
 *.png
